@@ -6,6 +6,12 @@ autosize: true
 font-import: https://fonts.googleapis.com/css?family=PT+Sans
 font-family: 'PT Sans', sans-serif;
 
+<style>
+body {
+    overflow: scroll;
+}
+</style>
+
 ***
 <div class="midcenter"><div style="margin-left:-0px;margin-top:500px;"><img style="margin:0px; background-color:transparent; border:0px; box-shadow:none;" src="figs/logo.png"></img></div></div>
 
